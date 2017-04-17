@@ -1,0 +1,9 @@
+{
+	"experienceId": "boilerplate",
+	"home": {
+		"bgColor": {
+			"on": "orange",
+			"off": "green"
+		}
+	}
+}
